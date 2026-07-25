@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 400" width="660" height="400" role="img" aria-label="Donair Choices Cafe logo">
+  <title>Donair Choices Cafe</title>
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a4a58"/><stop offset="50%" stop-color="#1e2a35"/>
+      <stop offset="52%" stop-color="#2b3947"/><stop offset="100%" stop-color="#10181f"/>
+    </linearGradient>
+    <linearGradient id="red2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e21f2c"/><stop offset="55%" stop-color="#c8102e"/><stop offset="100%" stop-color="#9a0c20"/>
+    </linearGradient>
+    <filter id="soft2" x="-25%" y="-25%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#334759" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <path fill="url(#red2)" d="M76 120 C204 40 406 36 586 96 L600 132 C450 104 230 92 76 120 Z"/>
+  <path fill="url(#red2)" transform="rotate(180 332 200)" d="M76 120 C204 40 406 36 586 96 L600 132 C450 104 230 92 76 120 Z"/>
+  <g filter="url(#soft2)" fill="url(#steel)">
+    <text x="332" y="150" text-anchor="middle" font-family="'Poppins','Arial Black',sans-serif" font-weight="800" font-size="40" letter-spacing="9">DONAIR</text>
+    <text x="332" y="278" text-anchor="middle" font-family="'Poppins','Arial Black',sans-serif" font-weight="800" font-size="46" letter-spacing="12">CAFE</text>
+  </g>
+  <text filter="url(#soft2)" x="332" y="232" text-anchor="middle" font-family="'Kaushan Script','Brush Script MT',cursive"
+        font-size="98" font-style="italic" paint-order="stroke" stroke="#33465a" stroke-width="3.2" stroke-linejoin="round"
+        fill="url(#steel)">Choices</text>
+</svg>

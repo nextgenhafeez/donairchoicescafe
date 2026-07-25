@@ -1,0 +1,13 @@
+{
+  "name": "Donair Choices Cafe",
+  "short_name": "Donair Choices",
+  "description": "Halal donairs, shawarma, kababs, poutine & bubble tea in NW Calgary.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1a18",
+  "theme_color": "#c8102e",
+  "icons": [
+    { "src": "assets/logo/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/logo/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
