@@ -1,0 +1,15 @@
+{
+  "name": "donair-choices-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Backend / database layer for Donair Choices Cafe (future API).",
+  "scripts": {
+    "test:db": "node test-connection.mjs",
+    "shell": "bash connect.sh"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.9.0"
+  }
+}
